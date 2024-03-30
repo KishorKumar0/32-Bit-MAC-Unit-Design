@@ -4,8 +4,7 @@ The Vedic Multiplier and the Reversible Logic Gates has Designed and implemented
 
 The design of MAC architecture consists of 3 sub designs.
 Design of 32×32 bit Vedic multiplier.
-Design of adder using DKG gate reversible
-logic.
-Design of accumulator which integrates both
-multiplier and adder stages.
+Design of adder using DKG gate reversiblelogic.
+Design of accumulator which integrates bothmultiplier and adder stages.
+
 ![image](https://github.com/KishorKumar0/32-Bit-MAC-Unit-Design/assets/144250655/2b76b466-6b9a-4a07-9b18-38dfd4564eeb)
