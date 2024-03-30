@@ -7,4 +7,5 @@ Design of 32×32 bit Vedic multiplier.
 Design of adder using DKG gate reversiblelogic.
 Design of accumulator which integrates bothmultiplier and adder stages.
 
-![image](https://github.com/KishorKumar0/32-Bit-MAC-Unit-Design/assets/144250655/2b76b466-6b9a-4a07-9b18-38dfd4564eeb)
+![image](https://github.com/KishorKumar0/32-Bit-MAC-Unit-Design/assets/144250655/2b76b466-6b9a-4a07-9b18-38dfd4564eeb) Modified MAC Architecture
+
